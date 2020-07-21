@@ -1,0 +1,19 @@
+"data": {
+    'name': 'siteName',
+    'home': {
+        'name': 'Página inicial',
+        'section_1': {
+            'title': 'Título da primeira seção',
+        },
+        'section_2': {
+            'title': 'Título da segunda seção',
+        },
+        'section_3': {
+            'title': 'Título da terceira seção',
+        }
+    },
+    'contact': {
+        'name': 'Contato',
+        'text': [ 'Lorem ipsum.', 'Dolor sit amet.' ]
+    }
+}
